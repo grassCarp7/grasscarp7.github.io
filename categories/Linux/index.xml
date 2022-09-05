@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on grasscarp7の博客</title>
+    <link>https://grasscarp7.github.io/categories/Linux/</link>
+    <description>Recent content in Linux on grasscarp7の博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 05 Sep 2022 20:16:26 +0800</lastBuildDate><atom:link href="https://grasscarp7.github.io/categories/Linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux2</title>
+      <link>https://grasscarp7.github.io/post/linux2/</link>
+      <pubDate>Mon, 05 Sep 2022 20:16:26 +0800</pubDate>
+      
+      <guid>https://grasscarp7.github.io/post/linux2/</guid>
+      <description>Linux基本指令——文件管理 1. mkdir 创建目录 2. rm , rm -rf ① 使用 rm 删除文件 使用rm指令删除文件需要确认。 ② 使用rm -f 删除文件（无需确认） ③ 使用rm -rf 指令删除目录 rm不加参数不能删除目录 rm -r 删除目录需要确认（-r：递归删除） rm -rf 删除目录无需确认（-r：递归删除，-f：无需提示） 3. cp，c</description>
+    </item>
+    
+  </channel>
+</rss>
